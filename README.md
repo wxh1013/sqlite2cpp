@@ -9,3 +9,5 @@
 
 
 python main.py -f sql文件的路径 -ho 头文件的输出目录 -co 源文件的输出目录 -create
+
+python  ./main.py  -create   -f ./example_sql/user_info.sql   -ho ../source/include -co ../source/src
