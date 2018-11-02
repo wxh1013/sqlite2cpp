@@ -6,3 +6,6 @@
 
 也就是 base 目录与sqlite2cpp 目录同级
 然后运行 sqlite2cpp 中的 main.py
+
+
+python main.py -f sql文件的路径 -ho 头文件的输出目录 -co 源文件的输出目录 -create
